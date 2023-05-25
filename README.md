@@ -1,3 +1,4 @@
+<img src="images/Logo White.png" alt="logo"/>
 # Pick Your Poison
 
 ## Live Deployment Links
