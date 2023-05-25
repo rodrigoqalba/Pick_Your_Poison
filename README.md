@@ -1,7 +1,7 @@
 # Pick Your Poison
 
 ## Live Deployment Links
-- [Website](https://jdhawks2132.github.io/Pick_Your_Poison/)
+- [Website]()
 
 
 ## Learning Goals
@@ -9,8 +9,8 @@
 As this application was built during Phase 1 of the Flatiron School's Software Engineering program, our primary goal was to continue learning. Focus of this project was to develop JavaScript fundamentals and utilize an API. In addition to JavaScript, I also utilized SCSS to compile the CSS for the site. 
 
 ## Development Team
-- [Joshua Hawks](http://www.linkedin.com/in/joshuahawks1)
 - [Rodrigo Alba](http://www.linkedin.com/in/rodrigoqalba)
+- [Joshua Hawks](http://www.linkedin.com/in/joshuahawks1)
 - Harris Kim
 
 ## Project Planning
